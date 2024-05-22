@@ -25,5 +25,5 @@ class Heroi {
         console.log(`O ${this.tipo} Megumim atacou usando ${ataque}`);
     }
 }
-const heroi1 = new Heroi('Megumim', 30, 'mago');
+const heroi1 = new Heroi('Megumim', 22, 'mago');
 heroi1.atacar();
